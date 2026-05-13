@@ -1,0 +1,11 @@
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local notes or exports
+*.tmp
+*.bak
